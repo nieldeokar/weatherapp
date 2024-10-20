@@ -38,7 +38,7 @@
   ]
 },
 {
-  "id" : "2"
+  "id" : "2",
   "name": "Desi bites",
   "description": "Authentic indai",
   "cover_img_url": "https://lh3.googleusercontent.com/p/AF1QipNjX2lXWcO9QqmsMdj8ylxp9sgkeoyYOQHZHhq8=s680-w680-h510",
@@ -53,9 +53,9 @@
     ],
     "coords": {
       "lon": -96.1364181,
-      "lat": 41.2361302,
+      "lat": 41.2361302
     },
-    "email": "bookings@desibites.com",
+    "email": "bookings@napkinsdiet.com",
     "phone": "+14024102020"
   },
   "hours": [

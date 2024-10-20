@@ -1,0 +1,78 @@
+[
+{
+  "id": "1",
+  "name": "Napkins Diet",
+  "description": "All the things. On your plate.",
+  "cover_img_url": "https://goop-img.com/wp-content/uploads/2015/08/chez-2.jpg",
+  "status" : "open",
+  "delivery_fee" : "$2.25",
+  "contact": {
+    "streetAddress": [
+      "SE Ladd & 16th",
+      " Portland",
+      "OR 97214",
+      "USA"
+    ],
+    "coords": {
+      "lon": -122.6493178985939,
+      "lat": 45.50851315184733
+    },
+    "email": "bookings@napkinsdiet.com",
+    "phone": "503 555 1975"
+  },
+  "hours": [
+    "Monday - Closed",
+    "Tuesday - 08:00 - 23:00",
+    "Wednesday - 08:00 - 23:00",
+    "Thursday - 08:00 - 23:00",
+    "Friday - 08:00 - late",
+    "Saturday - 08:00 - late",
+    "Sunday - 10:00 - 22:00"
+  ],
+  "social": [
+    {
+      "channel": "Twitter",
+      "displayName": "@NapkinsDiet",
+      "url": "https://twitter.com/napkinsdiet"
+    }
+  ]
+},
+{
+  "id" : "2"
+  "name": "Desi bites",
+  "description": "Authentic indai",
+  "cover_img_url": "https://lh3.googleusercontent.com/p/AF1QipNjX2lXWcO9QqmsMdj8ylxp9sgkeoyYOQHZHhq8=s680-w680-h510",
+  "status" : "open",
+  "delivery_fee" : "$0.00",
+  "contact": {
+    "streetAddress": [
+      "14132 Arbor St",
+      "Omaha",
+      "NE 68144",
+      "USA"
+    ],
+    "coords": {
+      "lon": -96.1364181,
+      "lat": 41.2361302,
+    },
+    "email": "bookings@desibites.com",
+    "phone": "+14024102020"
+  },
+  "hours": [
+    "Monday - Closed",
+    "Tuesday - 08:00 - 23:00",
+    "Wednesday - 08:00 - 23:00",
+    "Thursday - 08:00 - 23:00",
+    "Friday - 08:00 - late",
+    "Saturday - 08:00 - late",
+    "Sunday - 10:00 - 22:00"
+  ],
+  "social": [
+    {
+      "channel": "Twitter",
+      "displayName": "@DesiBites",
+      "url": "https://x.com/danhoppen"
+    }
+  ]
+}
+]
